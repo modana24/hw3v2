@@ -15,3 +15,4 @@ public class Truck {
             System.out.println("Проверяем прицеп");
         }
     }
+
